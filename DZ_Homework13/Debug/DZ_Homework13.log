@@ -1,0 +1,3 @@
+﻿  DZ_Homework13.cpp
+C:\Users\derta\source\repos\DZ_Homework13\DZ_Homework13\DZ_Homework13.cpp(34,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DZ_Homework13.vcxproj -> C:\Users\derta\source\repos\DZ_Homework13\Debug\DZ_Homework13.exe
